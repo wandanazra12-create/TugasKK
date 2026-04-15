@@ -9,7 +9,7 @@ Proyek ini adalah aplikasi berbasis web yang dibangun menggunakan framework **La
 - **Kelas:** XI RPL 3
 - **Sekolah:** SMKN 4 Bandung
 - **Mata Pelajaran:** KK3
-- **Guru Pengampu:** Raka Iskanda
+- **Guru Pengampu:** Raka Iskandar
 
 ---
 
@@ -29,13 +29,8 @@ Proyek ini adalah aplikasi berbasis web yang dibangun menggunakan framework **La
 - **Database:** MySQL / SQLite
 - **Frontend:** Blade Templating, Custom CSS, FontAwesome
 
-## 📋 Prasyarat Instalasi
-Sebelum menjalankan aplikasi, pastikan Anda sudah menginstal:
-- PHP >= 8.2
-- Composer
-- Node.js & NPM
+## 📸 Tampilan Aplikasi
 
-## ⚙️ Cara Menjalankan di Lokal
-1. **Clone repository:**
-   ```bash
-   git clone [https://github.com/wandanazra12-create/TugasKK.git](https://github.com/wandanazra12-create/TugasKK.git)
+![Tampilan Web Aplikasi](./resources/asset/Tampilan%20Web.png)
+
+   
